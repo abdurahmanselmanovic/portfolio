@@ -32,6 +32,11 @@
 	color: #676d73;
 }
 
+#hover:hover {
+	background-color: rgb(231, 245, 255);
+	border-radius: 8px;
+}
+
 .page__header span {
 	margin-left: 10%;
 	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
