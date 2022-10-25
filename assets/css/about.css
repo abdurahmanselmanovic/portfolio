@@ -178,3 +178,16 @@
 .divinsidediv2 p {
 	margin-left: 30px;
 }
+
+@media only screen and (max-width: 600px) {
+	.imgsdiv {
+		flex-direction: column;
+	}
+	.img1,
+	.img2 {
+		margin: 0;
+	}
+	.divinsidediv p {
+		margin-left: 50px;
+	}
+}
