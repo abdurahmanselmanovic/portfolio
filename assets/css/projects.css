@@ -145,3 +145,50 @@
 	margin-top: 30px;
 	color: #1b1212;
 }
+
+.main1,
+.main2 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 20px;
+}
+
+.project__card {
+	height: 400px;
+	border: 1px solid #676d73;
+	border-radius: 15px;
+	width: 28%;
+}
+
+.project__card img {
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+
+.project1 {
+	background-color: #fffafa;
+	width: 28%;
+	height: 400px;
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+}
+
+.project1 h1 {
+	margin-top: 2%;
+	font-size: 32px;
+	color: #1b1212;
+}
+
+.project1 p {
+	text-align: justify;
+	padding: 5%;
+	color: #000;
+}
+
+.undertext {
+	display: flex;
+	margin-top: 30%;
+}
