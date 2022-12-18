@@ -129,6 +129,7 @@
 		align-items: center;
 		flex-direction: column;
 		height: 60vh;
+		position: relative;
 	}
 
 	.page__header ul {
